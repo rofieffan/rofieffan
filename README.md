@@ -62,11 +62,11 @@ Hello, Rofi' Effan here. As a data-oriented person, in previous experience, I id
 ---
 ## Connect with me:
 
-[![website](./img/whatsapp-light.svg)](https://wa.me/082122939204#gh-light-mode-only)
-[![website](./img/whatsapp-dark.svg)](https://wa.me/082122939204#gh-dark-mode-only)
+[![website](./img/whatsapp-light2.svg)](https://wa.me/082122939204#gh-light-mode-only)
+[![website](./img/whatsapp-dark2.svg)](https://wa.me/082122939204#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/mail-light.svg)](mailto:ludyputrare@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](mailto:ludyputrare@gmail.com#gh-dark-mode-only)
+[![website](./img/mail-light2.svg)](mailto:ludyputrare@gmail.com#gh-light-mode-only)
+[![website](./img/mail-dark2.svg)](mailto:ludyputrare@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
