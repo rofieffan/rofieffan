@@ -3,25 +3,25 @@
 Hello, Rofi' Effan here. As a data-oriented person, in previous experience, I identified the business problem to start data analysis. I understand the data process, analyze, visualize and communicate data in a good way. I am a flexible person who is interested in learning new things. I also have good analytical thinking and critical thinking with the data.
 
 ## Spreadsheet/ Excel Skill sets:
-* Data Cleaning;
-* Query Table;
-* Pivot Table;
-* Vlookup;
-* Descriptive Statistics;
-* Data Visualization;
-* Gathering Insights;
-* A/B Testing;
+* Data Cleaning
+* Query Table
+* Pivot Table
+* Vlookup
+* Descriptive Statistics
+* Data Visualization
+* Gathering Insights
+* A/B Testing
 * Correlation and Regression
 
 ### Deck :
 [Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1R_ybTjSNgvrP8INwH4ZDxvT3JAvk5AErQmKG9drUDgw/edit?usp=sharing)
 
 ## SQL Skill sets:
-* Standard Query Syntax;  
-* SQL Aggregate Functions; 
-* SQL Joins; 
-* SQL Data Type; 
-* SQL Date Format; 
+* Standard Query Syntax
+* SQL Aggregate Functions 
+* SQL Joins
+* SQL Data Type
+* SQL Date Format
 * SQL Window Function
 
 ### Deck & Code Example :
